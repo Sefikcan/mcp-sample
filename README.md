@@ -7,7 +7,6 @@
   * Protecting data within infrastructure according to best practices
 
 ## Architecture
-![[Pasted image 20250403210845.png]]
 MCP follows a client-server architecture where a main application connects to multiple servers.
 
 ### Components:
